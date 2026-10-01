@@ -1,0 +1,15 @@
+{
+  "HomePage": "Главная страница",
+  "ContactPage": "Контакты",
+  "SkillsPage": "Скилы",
+  "TimelinePage": "Линия развития",
+  "language": "Язык",
+  "nav": {
+    "timeline": "Линия развития",
+    "skills": "Скилы",
+    "contact": "Контакты"
+  },
+  "common": {
+    "name": "ДомойДомой"
+  }
+}

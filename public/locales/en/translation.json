@@ -1,0 +1,15 @@
+{
+  "HomePage": "HomePage",
+  "ContactPage": "ContactPage",
+  "SkillsPage": "SkillsPage",
+  "TimelinePage": "TimelinePage",
+  "language": "Language",
+    "nav": {
+    "timeline": "timeline 000",
+    "skills": "skills 999",
+    "contact": "contact 555"
+  },
+  "common": {
+    "name": "Go to home"
+  }
+}
